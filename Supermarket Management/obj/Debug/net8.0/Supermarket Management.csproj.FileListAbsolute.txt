@@ -1,0 +1,30 @@
+D:\Supermarket Management\Supermarket Management\bin\Debug\net8.0\appsettings.Development.json
+D:\Supermarket Management\Supermarket Management\bin\Debug\net8.0\appsettings.json
+D:\Supermarket Management\Supermarket Management\bin\Debug\net8.0\Supermarket Management.staticwebassets.runtime.json
+D:\Supermarket Management\Supermarket Management\bin\Debug\net8.0\Supermarket Management.exe
+D:\Supermarket Management\Supermarket Management\bin\Debug\net8.0\Supermarket Management.deps.json
+D:\Supermarket Management\Supermarket Management\bin\Debug\net8.0\Supermarket Management.runtimeconfig.json
+D:\Supermarket Management\Supermarket Management\bin\Debug\net8.0\Supermarket Management.dll
+D:\Supermarket Management\Supermarket Management\bin\Debug\net8.0\Supermarket Management.pdb
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.AssemblyInfoInputs.cache
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.AssemblyInfo.cs
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.csproj.CoreCompileInputs.cache
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.MvcApplicationPartsAssemblyInfo.cache
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.RazorAssemblyInfo.cache
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.RazorAssemblyInfo.cs
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\staticwebassets\msbuild.Supermarket Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Supermarket Management.props
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Supermarket Management.props
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Supermarket Management.props
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\scopedcss\bundle\Supermarket Management.styles.css
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\scopedcss\projectbundle\Supermarket Management.bundle.scp.css
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.dll
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\refint\Supermarket Management.dll
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.pdb
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.genruntimeconfig.cache
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\ref\Supermarket Management.dll
