@@ -13,6 +13,8 @@ public class CategoriesController : Controller
 
     public IActionResult Edit(int? id)
     {
+        ViewBag.Action = "edit";
+
         var category = CategoriesRepository.GetCategoryById(id.HasValue?id.Value:0);
         return View(category);
     }
@@ -26,5 +28,29 @@ public class CategoriesController : Controller
             return RedirectToAction(nameof(Index));
         }
         return View(category);
+    }
+
+    public IActionResult Add()
+    {
+        ViewBag.Action = "add";
+
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Add([FromForm]Category category)
+    {
+        if(ModelState.IsValid)
+        {
+            CategoriesRepository.AddCategory(category);
+            return RedirectToAction(nameof(Index));
+        }
+        return View(category);
+    }
+
+    public IActionResult Delete(int categoryId)
+    {
+        CategoriesRepository.DeleteCategory(categoryId);
+        return RedirectToAction(nameof(Index));
     }
 }
