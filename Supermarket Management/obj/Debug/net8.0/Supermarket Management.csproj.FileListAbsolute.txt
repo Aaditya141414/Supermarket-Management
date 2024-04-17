@@ -28,3 +28,4 @@ D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\refint\Superma
 D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.pdb
 D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.genruntimeconfig.cache
 D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\ref\Supermarket Management.dll
+D:\Supermarket Management\Supermarket Management\obj\Debug\net8.0\Supermarket Management.sourcelink.json
