@@ -18,12 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Supermarket Management\Supermarket Management
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Supermarket Management/Supermarket Management/Views/Categories/add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xhZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Supermarket Management/Supermarket Management/Views/Categories/edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xlZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Supermarket Management/Supermarket Management/Views/Categories/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Supermarket Management/Supermarket Management/Views/Categories/_Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xfQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Supermarket Management/Supermarket Management/Views/Home/Index.cshtml]
